@@ -1,0 +1,32 @@
+
+  body{
+background-color: rgba(0, 10, 100, 0.699);
+
+  }
+  img,embed,object,video{max-width:1000px;
+  }
+
+  nav a, button{
+min-width: 48px;
+min-height: 48px;
+}
+
+@media screen and (max-width: 700px)
+{
+body{
+
+  background-color: rgb(228, 22, 193);
+}
+}
+
+  body{
+    margin: auto;
+    width: 50%;
+    border: 3px solid #ff0000;
+    padding: 10px;
+  
+}
+
+
+
+
